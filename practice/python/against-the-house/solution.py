@@ -1,5 +1,3 @@
-from collections import Counter
-
 def dice_roll_scoring(dice: list[int]):
   
   freq = {}
